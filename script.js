@@ -119,7 +119,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // --- Logika Tombol Konfirmasi di Modal (Mengirim ke WhatsApp) ---
   confirmWhatsappBtn.addEventListener("click", () => {
-    const nomorAdmin = "6282245527018"; // Ganti dengan nomor Anda
+    const nomorAdmin = "6282244380699"; // Ganti dengan nomor Anda
 
     const pesan = `Halo Simsans, saya mau pesan:
 
